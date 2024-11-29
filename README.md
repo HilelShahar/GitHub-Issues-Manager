@@ -21,11 +21,11 @@ The script uses GitHub's Personal Access Token (PAT) for authentication, which g
 * Ensure that Python is installed on your system.
 * Get your GitHub Personal Access Token (PAT) from your account to authenticate with the GitHub API.
 
-Using requests library:
+**Using requests library:**
 
 The script uses the requests library to interact with the GitHub API. If it's not installed, you can install it using pip.
 
-📦 Installation:
+📦 **Installation:**
 1. Install Python 3: If you don’t have Python 3, you can download and install it from [python.org](url).
 
 2. Install requests library:  Open terminal and run ```pip install requests``` or ```python3 -m pip install requests``` for macOS/Linux
